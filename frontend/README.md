@@ -4,8 +4,19 @@ This project is a collaborative real-time note editor built with React. Users ca
 SETUP INSTRUCTIONS
 Follow the steps below to set up and run the application locally:
 
-Clone the repository,
+Installation
+
+Clone the repository:
+
+git clone https://github.com/Marichka20/real-time-note-taking-app
+
+Install dependencies:
+
 npm install
+
+Start the server:
+
+npm run dev
 
 Set up the backend:
 
