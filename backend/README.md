@@ -1,8 +1,8 @@
-PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
 This project is a backend server for a real-time collaborative notes application. It provides basic authentication, token validation, and WebSocket-based real-time updates for shared notes.
 
-SETUP INSTRUCTIONS
+## SETUP INSTRUCTIONS
 
 Prerequisites
 
@@ -10,7 +10,7 @@ Node.js (latest LTS recommended)
 
 npm or yarn
 
-Installation
+## INSTALLATION
 
 Clone the repository:
 
@@ -40,7 +40,7 @@ bcrypt - Secure password hashing
 
 CORS - Cross-origin resource sharing
 
-FEATURE IMPLEMENTED
+## FEATURE IMPLEMENTED
 
 User Authentication:
 
@@ -64,7 +64,7 @@ Hashed passwords
 
 JWT authentication for session management
 
-FUTURE IMPROVEMENTS
+## FUTURE IMPROVEMENTS
 
 Database Integration: Move from in-memory user storage to a database (e.g., PostgreSQL, MongoDB)
 
