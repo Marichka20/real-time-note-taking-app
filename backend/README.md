@@ -14,8 +14,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone https://github.com/Marichka20/real-time-note-taking-app
 
 Install dependencies:
 
