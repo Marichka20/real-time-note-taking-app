@@ -1,7 +1,7 @@
-##PROJECT OVERVIEW
+## PROJECT OVERVIEW
 This project is a collaborative real-time note editor built with React. Users can log in and edit content collaboratively, with live updates via WebSocket. It provides a simple and intuitive user interface for creating and editing notes. The application is designed to be secure, with token-based authentication and session validation.
 
-##SETUP INSTRUCTIONS
+## SETUP INSTRUCTIONS
 Follow the steps below to set up and run the application locally:
 
 Clone the repository:
@@ -21,18 +21,18 @@ Set up the backend:
 The backend runs on http://localhost:5000. Make sure you have the backend server set up and running.
 If you don't have it, you can create an Express server to handle authentication and WebSocket connections.
 
-##Start the application:
+## Start the application:
 npm run dev
 The application will be available at http://localhost:5173.
 
-##Login:
+## Login:
 
 Open the app in the browser, and you will be redirected to the login page. Enter one of the following credentials to log in:
 Username: user1, Password: password1
 Username: user2, Password: password2.
 If successful, you'll be redirected to the editor.
 
-##TECHNOLOGY STACK
+## TECHNOLOGY STACK
 Frontend:
 React
 Redux (for state management)
@@ -41,7 +41,7 @@ React Router (for routing)
 Axios (for HTTP requests)
 WebSocket (Socket.io for real-time collaboration)
 
-##FEATURES IMPLEMENTED
+## FEATURES IMPLEMENTED
 
 User Authentication:
 
@@ -59,7 +59,7 @@ A preview of the content on the same page.
 Connection Monitoring.
 Displays a modal when the connection to the WebSocket server is lost, alerting the user.
 
-##FUTURE IMPROVEMENTS
+## FUTURE IMPROVEMENTS
 User Management:
 
 Implement features like user registration.
